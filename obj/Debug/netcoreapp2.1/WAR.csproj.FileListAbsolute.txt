@@ -1,0 +1,11 @@
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/bin/Debug/netcoreapp2.1/WAR.deps.json
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/bin/Debug/netcoreapp2.1/WAR.runtimeconfig.json
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/bin/Debug/netcoreapp2.1/WAR.runtimeconfig.dev.json
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/bin/Debug/netcoreapp2.1/WAR.dll
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/bin/Debug/netcoreapp2.1/WAR.pdb
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/obj/Debug/netcoreapp2.1/WAR.csprojAssemblyReference.cache
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/obj/Debug/netcoreapp2.1/WAR.csproj.CoreCompileInputs.cache
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/obj/Debug/netcoreapp2.1/WAR.AssemblyInfoInputs.cache
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/obj/Debug/netcoreapp2.1/WAR.AssemblyInfo.cs
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/obj/Debug/netcoreapp2.1/WAR.dll
+/Users/brent/Desktop/Coding/c#_stack/OOP_with_C/Game/obj/Debug/netcoreapp2.1/WAR.pdb
